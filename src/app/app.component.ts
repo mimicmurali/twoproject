@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'twoproject';
+  options=[{name:'puma',price:500},{name:'nike',price:500}];
 }
